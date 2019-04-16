@@ -81,3 +81,11 @@ a {
   width: 60%;
   margin: 0 auto;
 }
+.backButton{
+  display: flex;
+  height: 50px;
+  width: 80px;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgb(198, 198, 212);
+}
